@@ -1,0 +1,4 @@
+Branches in GitHub are different versions of a project.
+The main branch is usually called master and that is the stable version of a project. 
+Say you wanted to create an additional feature, you could create a new branch and work on it there. 
+At a later date, the new brach can be merged into the master branch. 
