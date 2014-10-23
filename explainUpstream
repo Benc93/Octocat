@@ -1,1 +1,4 @@
 Explain what the upstream remote is usually used for, in your own words
+
+The upstream remote (in this case a Github repository called 'Octocat') is the gatekeeper of a project nd the source from which inforamtion should be passed down from. 
+It is one part of a pair of remotes - the downstream remote taking its cue from upstream sources.
