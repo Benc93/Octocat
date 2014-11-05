@@ -1,2 +1,6 @@
-The upstream remote (in this case a Github repository called 'Octocat') is the gatekeeper of a project nd the source from which inforamtion should be passed down from.
-It is one part of a pair of remotes - the downstream remote taking its cue from upstream sources.
+The upstream remote is the link to the project's original repository, from a clone on a local repostiory after it has been forked into a new repository. 
+
+In other words... 
+
+The 'origin' link is to a cloned fork of the original repository, (from a clone on local)
+The 'upstream' link remains to the original repository (that was forked, and then cloned to local)
