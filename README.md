@@ -1,5 +1,7 @@
 ##Pre-course exercise: Octocat
 
+![octocat-github-348x196](https://cloud.githubusercontent.com/assets/9297921/5589174/616e28b2-9110-11e4-8806-202673e1107e.jpg)
+
 ####Summary of Activity 
     
 This excercise was used to consolidate GitHub skills learned during the pre-course material.  
